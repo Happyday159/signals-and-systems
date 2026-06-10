@@ -1,7 +1,7 @@
 # signals-and-systems
 
-[同学们请点击查看：平时成绩记录]
-
+> [!IMPORTANT]
+> 请同学们务必在 **6月18日前** 核对自己的平时成绩，如有异议请及时联系我。
 
 <img width="644" height="686" alt="image" src="https://github.com/user-attachments/assets/5d4499d3-52d4-4bc7-859a-4b322ef3e896" />
 
